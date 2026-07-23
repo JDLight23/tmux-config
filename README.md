@@ -1,7 +1,7 @@
 # tmux-config
 My current configuration file for tmux. Clone repo and copy `.tmux.conf` file to home directory
 
-### tmux Setup Notes
+### Setup Notes
 
 Clone tmux plugin manager using the following command:
 
