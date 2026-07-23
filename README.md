@@ -1,5 +1,7 @@
 # tmux-config
-My current configuration file for tmux. Clone repo and copy `.tmux.conf` file to home directory
+My current configuration file for tmux. Clone repo and copy `.tmux.conf` file to home directory:
+
+### Testing something with commits
 
 ### tmux Setup Notes
 
